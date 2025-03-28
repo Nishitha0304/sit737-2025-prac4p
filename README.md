@@ -1,6 +1,6 @@
 Step-by-step Process Followed:
 1. Installed Node.js and npm from https://nodejs.org
-2. Created a new folder for the project: sit737-2025-prac4c
+2. Created a new folder for the project: sit737-2025-prac4p
 3. Initialized the project using npm init -y
 4. Installed required libraries using:
 npm install express winston
@@ -27,5 +27,5 @@ Errors (in error.log)
 16. Wrote a short error handling report (error_handling_report.md) explaining Circuit Breaker, Retry, and Fallback
 17. Created README.md and added all documentation
 18. Initialized Git, committed the code, and pushed to GitHub repo:
-https://github.com/Nishitha0304/sit737-2025-prac4c
+https://github.com/Nishitha0304/sit737-2025-prac4p
 19. Submitted the GitHub link through OnTrack
